@@ -1,6 +1,6 @@
 # Cosmic Atlas 🌌
 
-![App Demo](https://github.com/Sanket1909/CosmicAtlas/blob/master/CosmicAtlas/demo.gif)
+![App Demo](https://github.com/Sanket1909/CosmicAtlas/blob/master/CosmicAtlas/CosmicATLAS.gif)
 
 Welcome to Cosmic Atlas, an iOS app developed as a college project using SwiftUI, ARKit, and RealityKit. Explore our solar system, learn about the planets, and dive into the wonders of space.
 
