@@ -19,7 +19,6 @@
 		3956F4B72ADC90BF00EA601E /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 3956F4B62ADC90BF00EA601E /* FirebaseFirestoreSwift */; };
 		3956F4B92ADC90BF00EA601E /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 3956F4B82ADC90BF00EA601E /* FirebaseStorage */; };
 		3956F4BB2ADC90BF00EA601E /* FirebaseStorageCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 3956F4BA2ADC90BF00EA601E /* FirebaseStorageCombine-Community */; };
-		3956F4BF2ADE316E00EA601E /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3956F4BE2ADE316E00EA601E /* demo.gif */; };
 		3960D0142AB51C1100F1B93E /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3960D0132AB51C1100F1B93E /* DetailView.swift */; };
 		3960D0162AB5271600F1B93E /* Pluto.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 3960D0152AB5271600F1B93E /* Pluto.usdz */; };
 		3978F6672AC8A77100E671B6 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3978F6662AC8A77100E671B6 /* ProfileView.swift */; };
@@ -27,6 +26,7 @@
 		397900F12AC229860000D70C /* NewsLive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 397900F02AC229860000D70C /* NewsLive.swift */; };
 		397900F62AC22A480000D70C /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 397900F52AC22A480000D70C /* NewsView.swift */; };
 		397901022AC3993C0000D70C /* animation_ln0x2yob.json in Resources */ = {isa = PBXBuildFile; fileRef = 397901012AC3993C0000D70C /* animation_ln0x2yob.json */; };
+		39D12A042ADF0A61007A8BEB /* CosmicATLAS.gif in Resources */ = {isa = PBXBuildFile; fileRef = 39D12A032ADF0A61007A8BEB /* CosmicATLAS.gif */; };
 		39D577F02AB3CA8700E11D13 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D577EF2AB3CA8700E11D13 /* ContentView.swift */; };
 		39D577F22AB3CA8700E11D13 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 39D577F12AB3CA8700E11D13 /* Experience.rcproject */; };
 		39D577F42AB3CA8700E11D13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39D577F32AB3CA8700E11D13 /* Assets.xcassets */; };
@@ -117,7 +117,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3956F4BE2ADE316E00EA601E /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		3960D0132AB51C1100F1B93E /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		3960D0152AB5271600F1B93E /* Pluto.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Pluto.usdz; sourceTree = "<group>"; };
 		3978F6662AC8A77100E671B6 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
@@ -125,6 +124,7 @@
 		397900F02AC229860000D70C /* NewsLive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsLive.swift; sourceTree = "<group>"; };
 		397900F52AC22A480000D70C /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
 		397901012AC3993C0000D70C /* animation_ln0x2yob.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = animation_ln0x2yob.json; sourceTree = "<group>"; };
+		39D12A032ADF0A61007A8BEB /* CosmicATLAS.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CosmicATLAS.gif; sourceTree = "<group>"; };
 		39D577EA2AB3CA8700E11D13 /* CosmicAtlas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CosmicAtlas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39D577EF2AB3CA8700E11D13 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		39D577F12AB3CA8700E11D13 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
@@ -238,7 +238,7 @@
 				397901012AC3993C0000D70C /* animation_ln0x2yob.json */,
 				39D577F32AB3CA8700E11D13 /* Assets.xcassets */,
 				39D5788C2AB4DD6800E11D13 /* GoogleService-Info.plist */,
-				3956F4BE2ADE316E00EA601E /* demo.gif */,
+				39D12A032ADF0A61007A8BEB /* CosmicATLAS.gif */,
 				39D5784F2AB3CF2200E11D13 /* 3D Model */,
 				39D577F52AB3CA8700E11D13 /* Preview Content */,
 			);
@@ -464,13 +464,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				39D5786D2AB3D06F00E11D13 /* Saturn.usdz in Resources */,
-				3956F4BF2ADE316E00EA601E /* demo.gif in Resources */,
 				39D577F72AB3CA8700E11D13 /* Preview Assets.xcassets in Resources */,
 				3960D0162AB5271600F1B93E /* Pluto.usdz in Resources */,
 				39D578512AB3D02E00E11D13 /* Jupiter.usdz in Resources */,
 				39D578592AB3D04900E11D13 /* Venus.usdz in Resources */,
 				39D578242AB3CD4300E11D13 /* Mars.usdz in Resources */,
 				39D578612AB3D05300E11D13 /* Uranus.usdz in Resources */,
+				39D12A042ADF0A61007A8BEB /* CosmicATLAS.gif in Resources */,
 				39D578282AB3CDC900E11D13 /* Sun.usdz in Resources */,
 				39D5788D2AB4DD6800E11D13 /* GoogleService-Info.plist in Resources */,
 				39D578652AB3D06400E11D13 /* Earth.usdz in Resources */,
