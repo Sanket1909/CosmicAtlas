@@ -24,7 +24,7 @@ To install and run Cosmic Atlas on your local machine, follow these steps:
 
 ```bash
 git clone https://github.com/Sanket1909/CosmicAtlas 
-
+```
 ## How to Use
 
 - Choose a planet in the Planetary Calculator and enter your age and weight to see how they would differ on that planet.
